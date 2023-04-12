@@ -1,6 +1,4 @@
-# k8s-net-labs
-Kubernetes networking labs for KubeCon EU 2020 talk
-
+# Kubernetes networking using Flannel and Calico
 
 After cloning this repo, to follow along you **either** need to install:
 - Docker [https://docs.docker.com/get-docker/](https://docs.docker.com/get-docker/)
